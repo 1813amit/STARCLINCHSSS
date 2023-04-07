@@ -1,0 +1,86 @@
+{
+    "user":[
+        
+            {
+                        "type": "artist",
+                        "id": "1",
+                        "name": "Khalid",
+                        "Imageurl": "https://i.scdn.co/image/ab6761610000517431072db9da0311ecfabe96bf",
+                        "number": 15885421
+                        
+            },
+
+            { 
+        "type": "artist",
+        "id": "2",
+        "name": "1da Banton",
+        "Imageurl": "https://i.scdn.co/image/ab6761610000517452a64605caf24f47bdd1232d",
+        "number": 115162
+            },
+            {
+                  "type": "artist",
+                    "id": "3",
+                    "name": "Julie Bergan",
+                    "imageUrl": "https://i.scdn.co/image/ab67616100005174a227ac3882ec71b0dfcfbe76",
+        
+                      "number": 157731
+            },
+
+            {
+                "type": "artist",
+                "id": "4",
+                "name": "DJ Tunez",
+                "imageUrl": "https://i.scdn.co/image/ab6761610000517424df3197707f8f93dcee5385",
+                                            
+                "number": 182482
+            },
+
+            {
+                                            "type": "artist",
+                                            "id": "5",
+                                            "name": "Cat Burns",
+                                            "imageUrl": "https://i.scdn.co/image/ab676161000051749bafbc99e9daf2569744d006",
+                                            
+                                              "number": 207119
+            },
+
+            {
+                                                        "type": "artist",
+                                                        "id": "6",
+                                                        "name": "Emelie Hollow",
+                                                        "imageUrl": "https://i.scdn.co/image/ab67616100005174ff1874c22f88c2f5aab5e4fb",
+                                                        
+                                                          "number": 31154
+            },
+
+            {
+                                                                    "type": "artist",
+                                                                    "id": "7",
+                                                                    "name": "Emma Jensen",
+                                                                    "imageUrl": "https://i.scdn.co/image/ab67616100005174e303a84d89c9b4100431d4d7",
+                                                                   
+                                                                      "number": 5780
+            },
+                                                        
+            {
+                                                                                "type": "artist",
+                                                                                "id": "8",
+                                                                                "name": "lille Caesar",
+                                                                                "imageUrl": "https://i.scdn.co/image/ab676161000051744f7734cbcc11a99fe6182383",
+                                                                               
+                                                                                  "number": 541
+            },
+
+            {
+                                                                                            "type": "artist",
+                                                                                            "id": "9",
+                                                                                            "name": "Alok",
+                                                                                            "imageUrl": "https://i.scdn.co/image/ab67616100005174f7d1bdca65e1cefd4e60c379",
+                                                                                            
+                                                                                              "number": 12089011
+            }
+
+                            
+        
+    ]
+}

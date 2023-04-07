@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useRef } from 'react'
+import Singer from './component/Singer'
+import Thirdpage from './component/Thirdpage'
+import Header from './component/Header'
+import Footer from './component/Footer'
+import "./App.css"
+import { LocomotiveScrollProvider } from 'react-locomotive-scroll'
+import { AnimatePresence } from 'framer-motion'
+import Scrolltriggershop from './component/Scrolltrigershop'
+import { ThemeProvider } from 'styled-components'
+import { TweenMax } from 'gsap/gsap-core'
 
-function App() {
+const App = () => {
+  
+
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+    
+   
+
+      <Header  />
+      <Singer />
+      <Thirdpage />
+      <Footer />
+      
+
+
+    </>
+  )
 }
 
-export default App;
+export default App
+
